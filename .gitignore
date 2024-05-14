@@ -1,0 +1,33 @@
+# Flask related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Node modules (for React frontend)
+/node_modules
+
+# Build files (for React frontend)
+/build
+/dist
+
+# Cache files (for React frontend)
+/.cache
+
+# IDE specific files
+.vscode/
+
+# Dependency directories (for React frontend)
+/.yarn
+/.pnp
+.pnp.js
